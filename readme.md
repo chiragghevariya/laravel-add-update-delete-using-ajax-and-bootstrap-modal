@@ -1,3 +1,35 @@
+# project installtion step
+
+  --Hello friends i am chirag ghevariya,junior laravel developer,here the guid line to how to install this project step by step.
+
+
+1.go to your www directory and open this directory path in terminal.
+
+
+2.git clone https://github.com/chiragghevariya/laravel-add-update-delete-using-ajax-and-bootstrap-modal.git
+
+
+3.after go to install directory project 
+
+
+4.composer install
+
+
+5.in your project directory .env file set your database setting name ,password and other
+
+
+6.php artisan key:generate
+
+
+7.php artisan migrate
+
+
+8.php artisan serve
+
+
+9:localhost:8000/ajax
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
